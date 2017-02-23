@@ -1,0 +1,6 @@
+{
+	"gid": "git diff",
+	"gaa": "git add -A",
+	"co": "git checkout",
+	"gp": "git push"
+}
