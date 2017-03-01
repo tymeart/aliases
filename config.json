@@ -2,5 +2,6 @@
 	"gid": "git diff",
 	"gaa": "git add -A",
 	"co": "git checkout",
-	"gp": "git push"
+	"gp": "git push",
+	"lyn": "learnyounode"
 }
