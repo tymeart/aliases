@@ -3,5 +3,6 @@
 	"gaa": "git add -A",
 	"co": "git checkout",
 	"gp": "git push",
-	"lyn": "learnyounode"
+	"lyn": "learnyounode",
+	"tir": "thinking-in-react"
 }
